@@ -1,7 +1,7 @@
 ## Hi, I'm James! 👋
 
 👨🏻‍💻 Aspiring AWS Cloud Engineer (currently Application Deployment Specialist)<br/>
-🌱 I’m currently learning/studying AWS Certified Cloud Practitioner using AWS free tier training modules including Cloud Quest to pivot/transition from my current role into the Cloud<br/>
+🌱 Currently studying AWS Certified Cloud Practitioner using AWS free tier training modules inc. Cloud Quest to pivot from current role into the Cloud<br/>
 👯 I’m looking to collaborate on fun, hands-on AWS projects to build a working portfolio of my Cloud knowledge/skillset<br/>
 
 <!--
