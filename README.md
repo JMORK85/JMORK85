@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi, I'm James! 👋
+
+- 👨🏻‍💻 Aspiring AWS Cloud Engineer (currently Application Deployment Specialist)
+- 🌱 I’m currently learning/studying AWS Cloud Practioner using AWS free tier training modules including Cloud Quest to pivot/transition from my current role into the Cloud
+- 👯 I’m looking to collaborate on fun, hands-on AWS projects to build a working portfolio of my Cloud knowledge/skillset
 
 <!--
 **JMORK85/JMORK85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 👨🏻‍💻 Aspiring AWS Cloud Engineer (currently Application Deployment Specialist) ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
