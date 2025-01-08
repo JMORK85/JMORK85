@@ -4,6 +4,12 @@
 🌱 Currently studying AWS Certified Cloud Practitioner using AWS free tier training modules inc. Cloud Quest to pivot from current role into the Cloud<br/>
 👯 I’m looking to collaborate on fun, hands-on AWS projects to build a working portfolio of my Cloud knowledge/skillset<br/>
 
+<h2>👨‍💻 AWS Projects:</h2>
+
+- <b>Host a Website on Amazon S3</b>
+  - [In this project I used Amazon Simple Storage Service (S3) to host a Website](https://github.com/JMORK85/Host-a-Website-on-Amazon-S3)
+
+
 <!--
 **JMORK85/JMORK85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
