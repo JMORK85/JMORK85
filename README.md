@@ -9,6 +9,7 @@
 - <b>Host a Website on Amazon S3</b>
   - [In this project I used Amazon Simple Storage Service (S3) to host a Website](https://github.com/JMORK85/amazon-s3-website)
 - <b>Visualize data with Amazon QuickSight</b>
+  - [In this project I used Amazon QuickSight to visualize Netflix data and trends](https://github.com/JMORK85/amazon-s3-website)
 
 
 <!--
